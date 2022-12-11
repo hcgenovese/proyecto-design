@@ -1,0 +1,123 @@
+{
+    "header": {
+        "nombre": "MyCompany",
+        "links":[
+            {
+                "texto": "blog",
+                "url": "http://blog.com"
+            },
+            {
+                "texto": "youtube",
+                "url": "http://youtube.com"
+            }
+        ]
+    },
+    "precios":[
+        {
+            "titulo": "free",
+            "precio": "$0",
+            "per": "month",
+            "textButton": "Sign up for Free",
+            "features": [
+                "10 users included",
+                "2GB",
+                "Email",
+                "Help Center Crypto"
+            ]
+        },
+        {
+            "titulo": "pro",
+            "precio": "$15",
+            "per": "month",
+            "textButton": "Sign up for Free",
+            "features": [
+                "10 users included",
+                "2GB",
+                "Email",
+                "Help Center Crypto"
+            ]
+        },
+        {
+            "titulo": "enterprise",
+            "precio": "$25",
+            "per": "month",
+            "textButton": "Sign up for Free",
+            "features": [
+                "10 users included",
+                "2GB",
+                "Email",
+                "Help Center Crypto"
+            ]
+        }
+    ],
+    "carousel":[
+        {
+            "texto": "Discover One Piece",
+            "url": "./Image1.jpg",
+            "alt":"texto alternativo"
+        },
+        {
+            "texto": "Understand One Piece",
+            "url": "./Image2.jpg",
+            "alt":"texto alternativo"
+        },
+        {
+            "texto": "Master One Piece",
+            "url": "./Image3.png",
+            "alt":"texto alternativo"
+        },
+        {
+            "texto": "Master One Piece",
+            "url": "./Image4.jpg",
+            "alt":"texto alternativo"
+        }
+    ],
+    "footer": [
+        {
+            "titulo": "MyCompany"
+        },
+        {
+            "titulo": "Social",
+            "links": [
+                {
+                    "texto": "youtube",
+                    "url": "http://youtube.com"
+                },
+                {
+                    "texto": "twitter",
+                    "url": "http://twitter.com"
+                },
+                {
+                    "texto": "facebook",
+                    "url": "http://facebook.com"
+                },
+                {
+                    "texto": "instagram",
+                    "url": "http://instagram.com"
+                }
+            ] 
+        },
+        {
+            "titulo": "Help",
+            "links": [
+                {
+                    "texto": "contact",
+                    "url": "http://"
+                },
+                {
+                    "texto": "Email",
+                    "url": "http://"
+                },
+                {
+                    "texto": "Privacy",
+                    "url": "http://"
+                },
+                {
+                    "texto": "Terms & Conditions",
+                    "url": "http://"
+                }
+            ] 
+        }
+    ]
+
+}
